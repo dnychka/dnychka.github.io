@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  name             : "Douglas Nychka"
+  avatar           : "bio-photo.JPG"
+  bio              : "Data scientist with a focus on  geoscience and spatial applications"
+  location         : "Boulder, Colorado"
+  employer         : "National Center for Atmospheric Research"
   googlescholar    : "https://scholar.google.com/citations?user=w2KsdLIAAAAJ&hl=en&oi=ao"
   email            :  "douglasnychka@gmail.com"
   uri              :

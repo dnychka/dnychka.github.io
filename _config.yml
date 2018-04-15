@@ -82,8 +82,7 @@ author:
   avatar           : "bio-photo.JPG"
   bio              : "Data scientist with a focus on  geoscience and spatial applications"
   location         : "Boulder, Colorado"
-  employer         : "National Center for
-                      Atmospheric Research"
+  employer         : "https://www2.cisl.ucar.edu"
   googlescholar    : "https://scholar.google.com/citations?user=w2KsdLIAAAAJ&hl=en&oi=ao"
   email            :  "douglasnychka@gmail.com"
   uri              :
@@ -105,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -250,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

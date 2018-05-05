@@ -10,7 +10,7 @@ location: "Exeter, UK"
 
 ---
 
-[pdf version](http://academicpages.github.io/files/BRACEUKMet.pdf)
+[pdf version](https://github.com/dnychka/dnychka.github.io/blob/master/files/BRACEUKMet.pdf)
 
 This work is a substantive application of data science to the analysis
 of climate model experiments. Pattern scaling has proved to be a

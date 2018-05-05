@@ -3,7 +3,7 @@ title: "Spatiotemporal hierarchical Bayesian modeling of tropical ocean surface 
 collection: publications
 permalink: /publication/wikle2001spatiotemporal-paper
 excerpt: 'This paper is  one of the first applications of a Bayesian hierarchical model to a large geophysical problem. Research was done while Chris Wikle was a post doc at NCAR and Mark Berliner was the Statistics Project lead.'
-date: 2011
+date: 2001-01-01
 venue: 'Journal of the American Statistical Association'
 paperurl: 'http://dnychka.github.io/files/wikle2001spatiotemporal.pdf'
 citation: ' *As bibtex* '

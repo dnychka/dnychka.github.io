@@ -9,51 +9,94 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+National Center for Atmospheric Research, PO Box 3000,  Boulder, CO 80307-3000 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+(cell) 3037253199 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+douglasnychka@gmail.com  
+
+ **Education**  
+ 
+* Duke University, Mathematics and Physics,  *summa cum laude*    B.A.
+1978\
+* University of Wisconsin - Madison, Statistics Ph. D. 1983
+
+ **Appointments**  
+* Starting 8/18: Professor, Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO
+* 7/97- present: Director, Institute for Mathematics Applied to
+Geosciences (11/2005-present), Project Leader, Geophysical Statistics
+Project (8/97-6/2006), Senior Scientist (8/99-present)\
+National Center for Atmospheric Research, Boulder, CO\
+* 7/83-6/99: Assistant (7/83-6/89), Associate (7/89-6/94) and Full
+Professor (7/94-6/99), Department of Statistics North Carolina State
+University, Raleigh, NC
+
+* 1/94-7/97 Senior Fellow, National Institute of Statistical Sciences,
+Research Triangle Park, NC
+
+  **Awards and fellowships**  
+* Fellow, American Statistical Association (2003)
+* Jerry Sacks Award for Multidisciplinary Research (2004)
+* Distinguished Achievement Award, American Statistical Association,
+Section on the Environment (2013)
+* Achievement Award, International Meeting on Statistical Climatology
+(2013)
+* Fellow, Institute of Mathematical Statistics (2015)
+
+
+  **Research and Publications**   
+Douglas Nychka’s research areas include statistical methods and
+mathematical theory for curve and surface fitting and a broad interest
+in data analysis for the geosciences. He is an author on more than 100
+peer reviewed articles, H-index $35$ (Web of Science) and has edited two
+books. Some representative publications
+
+* Dalmasse, K., Nychka, D., Gibson, S., Fan, Y., and Flyer, N. (2016).
+ Roam: a radial basis function optimization approximation method for
+  diagnosing the three-dimensional coronal magnetic field.
+ {\em Frontiers in Astronomy and Space Sciences}, 3.
+* Nychka, D., Bandyopadhyay, S., Hammerling, D., Lindgren, F., and Sain, S.
+  (2015).
+ A multi-resolution {G}aussian process model for the analysis of large
+  spatial datasets.
+ {\em Journal of Computational and Graphical Statistics},
+  24(2):579--599.
+* Oh, H.-S., Lee, T.~C., and Nychka, D.~W. (2011).
+ Fast nonparametric quantile regression with arbitrary smoothing
+  methods.
+ {\em Journal of Computational and Graphical Statistics},
+  20(2):510--526.
+* Cooley, D., Nychka, D., and Naveau, P. (2007).
+ Bayesian spatial modeling of extreme precipitation return levels.
+ *Journal of the American Statistical Association*,
+  102(479):824--840.
+* Wikle, C.~K., Milliff, R.~F., Nychka, D., and Berliner, L.~M. (2001).
+ Spatiotemporal hierarchical {B}ayesian modeling of tropical ocean
+  surface winds.
+ {\em Journal of the American Statistical Association},
+  96(454):382--397.
+
+ 
+
+ **Synergistic Activities**   
+* R contributed packages: See `cran.r-project.org`
+	* fields: Tools for spatial data, Nychka, D., R Furrer, S. Sain, and John Page
+(2017)\
+( $>$ 230K downloads since 7/2016)
+
+	* LatticeKrig: Multi-resolution Kriging, Nychka, D., Hammerling, D. and Sain, S.
+(2017)
+($>$ 3.5K downloads since 7/2016)
+
+* Selected Community Service	
+	* Surface Temperature Reconstructions for the Last 2,000 Years US, Nat.
+Academy of Sciences (2006)
+
+	* Verification & Validation and Uncertainty Quantification, Nat. Res.
+Council (2010–2012).
+
+	* Board of Governors, Institute for Mathematical Applications, University
+of Minnesota (2011– 2015)
+
+	* Scientific Advisory Board, Pacific Institute of Mathematics (2015 – )

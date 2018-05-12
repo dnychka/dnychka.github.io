@@ -55,17 +55,17 @@ books. Some representative publications
 * Dalmasse, K., Nychka, D., Gibson, S., Fan, Y., and Flyer, N. (2016).
  Roam: a radial basis function optimization approximation method for
   diagnosing the three-dimensional coronal magnetic field.
- {\em Frontiers in Astronomy and Space Sciences}, 3.
+ *Frontiers in Astronomy and Space Sciences*, 3.
 * Nychka, D., Bandyopadhyay, S., Hammerling, D., Lindgren, F., and Sain, S.
   (2015).
  A multi-resolution {G}aussian process model for the analysis of large
   spatial datasets.
- {\em Journal of Computational and Graphical Statistics},
+ *Journal of Computational and Graphical Statistics*,
   24(2):579--599.
 * Oh, H.-S., Lee, T.~C., and Nychka, D.~W. (2011).
  Fast nonparametric quantile regression with arbitrary smoothing
   methods.
- {\em Journal of Computational and Graphical Statistics},
+ *Journal of Computational and Graphical Statistics*,
   20(2):510--526.
 * Cooley, D., Nychka, D., and Naveau, P. (2007).
  Bayesian spatial modeling of extreme precipitation return levels.
@@ -74,7 +74,7 @@ books. Some representative publications
 * Wikle, C.~K., Milliff, R.~F., Nychka, D., and Berliner, L.~M. (2001).
  Spatiotemporal hierarchical {B}ayesian modeling of tropical ocean
   surface winds.
- {\em Journal of the American Statistical Association},
+ *Journal of the American Statistical Association*,
   96(454):382--397.
 
  

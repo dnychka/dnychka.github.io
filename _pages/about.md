@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**NOTE: This homepage material is still under construction**
 
 I served as  Director of the Institute for Mathematics Applied to Geosciences (November, 2004 - August 2017) (IMAGe) and am currently a Senior Scientist in CISL. My main task is to enrich the scientific and educational activity at NCAR through mathematical methods and models. Also, I use the large scientific projects at NCAR to engage the mathematical science communities in new applications and to motivate new mathematicsand statistics. Before directing IMAGe I was the GSP project leader (August,1997 - June, 2006).
 

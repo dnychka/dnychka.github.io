@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+For pdf versions see the links for : [One Page CV](http://dnychka.github.io/files/NychkaVita1Page.pdf) and [Complete CV](http://dnychka.github.io/files/NychkaFullCV.pdf)
 
 National Center for Atmospheric Research, PO Box 3000,  Boulder, CO 80307-3000 
 

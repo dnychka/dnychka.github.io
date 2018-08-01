@@ -14,7 +14,10 @@ Here is a handy [bibtex file](https://dnychka.github.io/files/NychkaCV.bib)  fil
 
 ##Some Manuscripts and Articles
 
-* Modeling and emulation of nonstationary Gaussian fields. (2018). Nychka, Douglas, Dorit Hammerling, Mitchell Krock, and Ashton Weins. In review for *Spatial Statistics*. [PDF](https://dnychka.github.io/files/nychka2018BRACE.pdf)
+* Modeling and emulation of nonstationary Gaussian
+  fields. (2018). Nychka, Douglas, Dorit Hammerling, Mitchell Krock,
+  and Ashton Weins. In review for *Spatial
+  Statistics*. [<span style="color:blue"> PDF </span>](https://dnychka.github.io/files/nychka2018BRACE.pdf)
 
 * Spatiotemporal hierarchical Bayesian modeling of tropical ocean surface winds. (2001), Wikle, Christopher K and Milliff, Ralph F and Nychka, Douglas and Berliner, L Mark, *Journal of the American Statistical Association*, 96,
-   382--397.  [PDF](https://dnychka.github.io/files/wikle2001spatiotemporal.pdf)
+   382--397.  [<span style="color:blue"> PDF </span>](https://dnychka.github.io/files/wikle2001spatiotemporal.pdf)

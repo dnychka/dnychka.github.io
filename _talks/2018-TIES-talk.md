@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2018-TIES-talk
 venue: "TIES Meeting July 2018, CIMET" 
-date: 2018-03-01
+date: 2018-07-15
 location: ", Guanajuato, MX"
 
 ---

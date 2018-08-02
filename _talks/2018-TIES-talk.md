@@ -8,8 +8,7 @@ date: 2018-07-15
 location: ", Guanajuato, MX"
 
 ---
-
-[pdf version](https://dnychka.github.io/files/LocalTalkTIES.pdf)
+[<span style="color:blue">PDF</span>](https://dnychka.github.io/files/LocalTalkTIES.pdf)
 
 Large spatial data sets are now ubiquitous in environmental science.
 Fine spatial sampling or many observations across large domains

@@ -9,10 +9,11 @@ author_profile: true
 
   You can also find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-Here is a handy [bibtex file](https://dnychka.github.io/files/NychkaCV.bib)  file for my CV publications: 
+Here is a handy 
+[<span style="color:blue"> bibtex file </span>](https://dnychka.github.io/files/NychkaCV.bib)  file for my CV publications: 
  
 
-##Some Manuscripts and Articles
+<h2> Current and Significant Papers </h2>
 
 * Modeling and emulation of nonstationary Gaussian
   fields. (2018). Nychka, Douglas, Dorit Hammerling, Mitchell Krock,

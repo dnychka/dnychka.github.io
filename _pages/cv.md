@@ -9,23 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-**see PDF versions: **   [One Page CV](http://dnychka.github.io/files/NychkaVita1Page.pdf) and [Complete CV](http://dnychka.github.io/files/NychkaFullCV.pdf)
+**PDF versions of my CV:**   [<span style="color:blue"> One Page</span>](http://dnychka.github.io/files/NychkaVita1Page.pdf) and [<span style="color:blue">Everything!</span> ](http://dnychka.github.io/files/NychkaFullCV.pdf)
 
-National Center for Atmospheric Research, PO Box 3000,  Boulder, CO 80307-3000 
+#Contact#
+* **mail** Colorado School of Mines 
+Applied Mathematics and Statistics
+1500 Illinois St.
+Golden, CO 80401
 
-(cell) 3037253199 
 
-douglasnychka@gmail.com  
+* **personal cell** 3037253199 
 
- **Education**  
+* **professional email** *primary:*  nychka@mines.co   
+        (NCAR emeritas:  nychka@ucare.edu) 
+
+* **personal email** douglasnychka@gmail.com 
+ 
+#Education#
  
 * Duke University, Mathematics and Physics,  *summa cum laude*    B.A.
 1978\
 * University of Wisconsin - Madison, Statistics Ph. D. 1983
 
- **Appointments**  
-* Starting 8/18: Professor, Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO
-* 7/97- present: Director, Institute for Mathematics Applied to
+#Appointments#
+*  8/18 - present: Professor, Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO
+* 8/18 - present: Emeritus scientist, National Center for Atmospheric Research, Boulder, CO
+* 7/97- 8/18: Director, Institute for Mathematics Applied to
 Geosciences (11/2005-present), Project Leader, Geophysical Statistics
 Project (8/97-6/2006), Senior Scientist (8/99-present)\
 National Center for Atmospheric Research, Boulder, CO\
@@ -45,8 +54,7 @@ Section on the Environment (2013)
 (2013)
 * Fellow, Institute of Mathematical Statistics (2015)
 
-
-  **Research and Publications**   
+#Research and Publications#
 Douglas Nychka’s research areas include statistical methods and
 mathematical theory for curve and surface fitting and a broad interest
 in data analysis for the geosciences. He is an author on more than 100
@@ -79,8 +87,7 @@ books. Some representative publications
   96(454):382--397.
 
  
-
- **Synergistic Activities**   
+#Synergistic Activities#
 * R contributed packages: See `cran.r-project.org`
 	* fields: Tools for spatial data, Nychka, D., R Furrer, S. Sain, and John Page
 (2017)\

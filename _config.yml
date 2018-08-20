@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://dnychka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  "OlsoSculpture.JPG" # filename of teaser  image placed in /images/, .e.g.
+teaser                   :  "OlsoSculpture.jpg" # filename of teaser  image placed in /images/, .e.g.
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Douglas Nychka"
-  avatar           : "bio-photo.JPG"
+  avatar           : "bio-photo.jpg"
   bio              : "Data scientist with a focus on  geoscience and spatial applications"
-  location         : "Boulder, Colorado"
-  employer         : "https://www2.cisl.ucar.edu"
+  location         : "Golden, Colorado"
+  employer         : "https://www.mines.edu"
   googlescholar    : "https://scholar.google.com/citations?user=w2KsdLIAAAAJ&hl=en&oi=ao"
   email            :  "douglasnychka@gmail.com"
   uri              :

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**NOTE: This homepage material is still under construction**
+**NOTE: Some of this homepage material is still under construction**
 <h3>Some Quick Links:</h3>
 <p><strong>| <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp;| 
 <a href="https://github.com/NCAR/LatticeKrig"> LatticeKrig R Package </a>|
@@ -22,9 +22,10 @@ Mathematics and Statistics </a> at <a href="http://inside.mines.edu/AMS-home">  
 </a>
 as a tenured
 Full Professor.  As new staff I got a cool yellow hard hat and hiked
-to the M with the incoming freshman.  With this move I will retain an
+up 
+to the M along with the incoming freshman.  With this move I will retain an
 appointment at the National Center for Atmospheric Research (NCAR) as
-an emeritus scientist and I plan be at the Mesa Lab on a regular
+an emeritus scientist and I plan to be at the Mesa Lab on a regular
 basis.
 
 At NCAR I served as  Director of the Institute for Mathematics Applied

@@ -11,7 +11,7 @@ title                    : "Douglas Nychka Homepage"
 title_separator          : "-"
 name                     : &name "Douglas Nychka"
 description              : &description "personal description"
-url                      : https://dnychka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://dnychka.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  "OlsoSculpture.jpg" # filename of teaser  image placed in /images/, .e.g.
@@ -81,8 +81,8 @@ author:
   name             : "Douglas Nychka"
   avatar           : "bio-photo.jpg"
   bio              : "Data scientist with a focus on  geoscience and spatial applications"
-  location         : "Golden, Colorado"
-  employer         : "https://www.mines.edu"
+  location         : "Boulder and Golden, Colorado"
+  employer         : <a href="https://www.mines.edu">Colorado School of Mines </a>
   googlescholar    : "https://scholar.google.com/citations?user=w2KsdLIAAAAJ&hl=en&oi=ao"
   email            :  "douglasnychka@gmail.com"
   uri              :

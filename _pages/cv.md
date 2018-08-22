@@ -11,7 +11,7 @@ redirect_from:
 
 **PDF versions of my CV:**   [<span style="color:blue"> One Page</span>](http://dnychka.github.io/files/NychkaVita1Page.pdf) and [<span style="color:blue">Everything!</span> ](http://dnychka.github.io/files/NychkaFullCV.pdf)
 
-#Contact#
+<h3> Contact </h3>
 * **mail** Colorado School of Mines 
 Applied Mathematics and Statistics
 1500 Illinois St.
@@ -25,15 +25,15 @@ Golden, CO 80401
 
 * **personal email** douglasnychka@gmail.com 
  
-#Education#
+<h3>Education</h3>
  
 * Duke University, Mathematics and Physics,  *summa cum laude*    B.A.
 1978\
 * University of Wisconsin - Madison, Statistics Ph. D. 1983
 
-#Appointments#
+<h3>Appointments</h3>
 *  8/18 - present: Professor, Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO
-* 8/18 - present: Emeritus scientist, National Center for Atmospheric Research, Boulder, CO
+* 8/18 - present: Emeritus Senior Scientist, National Center for Atmospheric Research, Boulder, CO
 * 7/97- 8/18: Director, Institute for Mathematics Applied to
 Geosciences (11/2005-present), Project Leader, Geophysical Statistics
 Project (8/97-6/2006), Senior Scientist (8/99-present)\
@@ -41,11 +41,10 @@ National Center for Atmospheric Research, Boulder, CO\
 * 7/83-6/99: Assistant (7/83-6/89), Associate (7/89-6/94) and Full
 Professor (7/94-6/99), Department of Statistics North Carolina State
 University, Raleigh, NC
-
-* 1/94-7/97 Senior Fellow, National Institute of Statistical Sciences,
+* 1/94-7/97  Senior Fellow, National Institute of Statistical Sciences,
 Research Triangle Park, NC
 
-  **Awards and fellowships**  
+<h3>Awards and fellowships</h3>  
 * Fellow, American Statistical Association (2003)
 * Jerry Sacks Award for Multidisciplinary Research (2004)
 * Distinguished Achievement Award, American Statistical Association,
@@ -54,7 +53,7 @@ Section on the Environment (2013)
 (2013)
 * Fellow, Institute of Mathematical Statistics (2015)
 
-#Research and Publications#
+<h3>Research and Publications</h3>
 Douglas Nychka’s research areas include statistical methods and
 mathematical theory for curve and surface fitting and a broad interest
 in data analysis for the geosciences. He is an author on more than 100
@@ -87,7 +86,7 @@ books. Some representative publications
   96(454):382--397.
 
  
-#Synergistic Activities#
+<h3>Synergistic Activities</h3>
 * R contributed packages: See `cran.r-project.org`
 	* fields: Tools for spatial data, Nychka, D., R Furrer, S. Sain, and John Page
 (2017)\

@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Douglas Nychka"
   avatar           : "bio-photo.jpg"
-  bio              : "Data scientist with a focus on  geoscience and spatial applications"
-  location         : "Boulder and Golden, Colorado"
+  bio              : "Data scientist with a focus on geoscience and spatial applications"
+  location         : <a href="https://en.wikipedia.org/wiki/Golden,_Colorado">Golden, Colorado</a>
   employer         : <a href="https://www.mines.edu">Colorado School of Mines </a>
   googlescholar    : "https://scholar.google.com/citations?user=w2KsdLIAAAAJ&hl=en&oi=ao"
   email            :  "douglasnychka@gmail.com"

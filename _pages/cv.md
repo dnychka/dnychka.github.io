@@ -20,7 +20,7 @@ Golden, CO 80401
 
 * **personal cell** 3037253199 
 
-* **professional email** *primary:*  nychka@mines.co   
+* **professional email** *primary:*  nychka@mines.edu  
         (NCAR emeritas:  nychka@ucare.edu) 
 
 * **personal email** douglasnychka@gmail.com 

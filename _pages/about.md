@@ -15,7 +15,7 @@ redirect_from:
 &nbsp;<a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing">Data Science 101</a>&nbsp;| <a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRaWU5aXZkczdGVms?usp=sharing">spatialStatsCourse</a>&nbsp;|<a href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj">FudanIX</a>&nbsp;|<a href="https://drive.google.com/open?id=18x1zMxyX2BpGmiHIj9oI0k8awoeuF8TA">UGExtremes</a></strong></p>
 
 
-[<span style="color:blue"> A useful condensed bio  </span>](https://dnychka.github.io/files/NychkaBio.txt)
+[<span style="color:LightBlue"> A useful bio as a .txt file  </span>](https://dnychka.github.io/files/NychkaBio.txt)
 
 <h3>About me</h3>
 

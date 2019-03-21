@@ -14,7 +14,10 @@ redirect_from:
 <a href="https://drive.google.com/drive/folders/19CqTlQRQ_IIKDcEGAm15JJctkwpaIQ2_?usp=sharing"> RShortCourse </a>|
 &nbsp;<a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing">Data Science 101</a>&nbsp;| <a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRaWU5aXZkczdGVms?usp=sharing">spatialStatsCourse</a>&nbsp;|<a href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj">FudanIX</a>&nbsp;|<a href="https://drive.google.com/open?id=18x1zMxyX2BpGmiHIj9oI0k8awoeuF8TA">UGExtremes</a></strong></p>
 
-<h3>Bio</h3>
+
+[<span style="color:blue"> A useful condensed bio  </span>](https://dnychka.github.io/files/NychkaBio.txt)
+
+<h3>About me</h3>
 
 Beginning in August 2018 I joined the
 <a href="http://inside.mines.edu/AMS-home"> Department of Applied

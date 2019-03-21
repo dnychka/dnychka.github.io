@@ -9,13 +9,16 @@ redirect_from:
 ---
 **NOTE: Some of this homepage material is still under construction**
 <h3>Some Quick Links:</h3>
-<p><strong>| <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp;| 
-<a href="https://github.com/NCAR/LatticeKrig"> LatticeKrig R Package </a>|
+
+<p><strong></strong></p>
+<a href="https://dnychka.github.io/cv/"> CV </a> |
+<a href="
+href="https://dnychka.github.io/files/NychkaBio.txt"> Bio </a> | 
+ <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp; | 
+<a href="https://github.com/NCAR/LatticeKrig">  LatticeKrig R Package </a>|
 <a href="https://drive.google.com/drive/folders/19CqTlQRQ_IIKDcEGAm15JJctkwpaIQ2_?usp=sharing"> RShortCourse </a>|
-&nbsp;<a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing">Data Science 101</a>&nbsp;| <a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRaWU5aXZkczdGVms?usp=sharing">spatialStatsCourse</a>&nbsp;|<a href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj">FudanIX</a>&nbsp;|<a href="https://drive.google.com/open?id=18x1zMxyX2BpGmiHIj9oI0k8awoeuF8TA">UGExtremes</a></strong></p>
+&nbsp;<a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing"> Data Science 101 </a>&nbsp;| <a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRaWU5aXZkczdGVms?usp=sharing">spatialStatsCourse</a>&nbsp;|<a href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj"> FudanIX </a>&nbsp;|<a href="https://drive.google.com/open?id=18x1zMxyX2BpGmiHIj9oI0k8awoeuF8TA"> UGExtremes </a>
 
-
-[<span style="color:LightBlue"> A useful bio as a .txt file  </span>](https://dnychka.github.io/files/NychkaBio.txt)
 
 <h3>About me</h3>
 

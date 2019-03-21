@@ -6,10 +6,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-## List of talks here:
+##Some recent talks
+[Nonstationary spatial data:think globally act locally](https://dnychka.github.io/files/LocalTalkTIES.pdf)
 
-*If you use any material from these talks please give credit to the
+[Uncertainty in the pattern scalingof climate models](https://dnychka.github.io/files/nychka2018BRACE.pdf)
+
+*If you use any material from these talks please give credit to this
 source.*
+
 
 
 {% for post in site.talks reversed %}

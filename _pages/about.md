@@ -12,8 +12,7 @@ redirect_from:
 
 <p><strong></strong></p>
 <a href="https://dnychka.github.io/cv/"> CV </a> |
-<a href="
-href="https://dnychka.github.io/files/NychkaBio.txt"> Bio </a> | 
+<a href="https://dnychka.github.io/files/NychkaBio.txt"> Bio </a> | 
  <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp; | 
 <a href="https://github.com/NCAR/LatticeKrig">  LatticeKrig R Package </a>|
 <a href="https://drive.google.com/drive/folders/19CqTlQRQ_IIKDcEGAm15JJctkwpaIQ2_?usp=sharing"> RShortCourse </a>|

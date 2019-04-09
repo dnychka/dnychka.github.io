@@ -3,7 +3,7 @@ title: "fields R package: Tools for Spatial Data"
 excerpt: "For curve, surface and function fitting with an emphasis
  on splines, spatial data and spatial statistics. Incudes methods for
  summaries and plotting aong with support for sparse algorithms for
- large data sets. <br/><img src='/images/gaitFancy.jpg'>"
+ large data sets. <br/><img src='/images/gaitFancy.pdf'>"
 collection: portfolio
 ---
 

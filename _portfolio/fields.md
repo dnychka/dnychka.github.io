@@ -3,13 +3,15 @@ title: "fields R package: Tools for Spatial Data"
 excerpt: "For curve, surface and function fitting with an emphasis
  on splines, spatial data and spatial statistics. Incudes methods for
  summaries and plotting aong with support for sparse algorithms for
- large data sets. <br/><img src='/images/gaitFancy.pdf'>"
+ large data sets. <br/><img src='/images/gaitFancy.jpg'>"
 collection: portfolio
 ---
 
-##fields ##
+# fields #
 
-[fields home respository](https://github.com/NCAR/Fields)
+To get fields inaries you can download from [CRAN](https://cran.r-project.org/web/packages/fields).
+Also see 
+[fields home respository](https://github.com/NCAR/Fields) for the source and other supporting components. 
 
 An extensive R package for curve, surface and function fitting with an emphasis
  on splines, spatial data and spatial statistics. The major methods
@@ -18,6 +20,7 @@ An extensive R package for curve, surface and function fitting with an emphasis
  supported by functions that can determine the smoothing parameter
  (nugget and sill variance) and other covariance function parameters by cross
  validation and also by restricted maximum likelihood.
+ 
 For Kriging
  there is an easy to use function that also estimates the correlation
  scale (range parameter).  A major feature is that any covariance function
@@ -26,7 +29,7 @@ For Kriging
  and working with spatial data as images. This package also contains
  an implementation of sparse matrix methods for large spatial data
  sets and currently requires the sparse matrix (spam) package. Use
- help(fields) to get started and for an overview.  The fields source
+``` help(fields) ``` to get started and for an overview.  The fields source
  code is deliberately commented and provides useful explanations of
  numerical details as a companion to the manual pages. The commented
  source code can be viewed by expanding  source code version

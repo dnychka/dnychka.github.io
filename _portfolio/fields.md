@@ -1,15 +1,16 @@
 ---
 title: "fields R package: Tools for Spatial Data"
 excerpt: "For curve, surface and function fitting with an emphasis
- on splines, spatial data and spatial statistics. Incudes methods for
- summaries and plotting aong with support for sparse algorithms for
+ on splines, spatial data and spatial statistics. Includes methods for
+ summaries and plotting along with support for sparse algorithms for
  large data sets. <br/><img src='/images/gaitFancy.jpg'>"
 collection: portfolio
 ---
 
 # fields #
 
-To get fields binaries you can download from [CRAN](https://cran.r-project.org/web/packages/fields).
+To get fields binaries you can download from
+[CRAN](https://cran.r-project.org/web/packages/fields).
 For a quick start use
 ``` help(fields) ``` to get started and for an overview.
 Also see 

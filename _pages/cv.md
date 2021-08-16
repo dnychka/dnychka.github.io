@@ -11,6 +11,8 @@ redirect_from:
 
 **PDF versions of my CV:**   [<span style="color:blue"> One Page</span>](http://dnychka.github.io/files/NychkaVita1Page.pdf) and [<span style="color:blue">Everything!</span> ](http://dnychka.github.io/files/NychkaFullCV.pdf)
 
+ [<span style="color:blue">bibtex file of publications</span>](http://dnychka.github.io/files/NychkaCV.bib)
+
 <h3> Contact </h3>
 * **mail** Colorado School of Mines 
 Applied Mathematics and Statistics

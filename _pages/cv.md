@@ -23,7 +23,7 @@ Golden, CO 80401
 * **personal cell** 3037253199 
 
 * **professional email** *primary:*  nychka@mines.edu  
-        (NCAR emeritas:  nychka@ucare.edu) 
+        (NCAR emeritas:  nychka@ucar.edu) 
 
 * **personal email** douglasnychka@gmail.com 
  
@@ -58,17 +58,17 @@ Section on the Environment (2013)
 <h3>Research and Publications</h3>
 Douglas Nychka’s research areas include statistical methods and
 mathematical theory for curve and surface fitting and a broad interest
-in data analysis for the geosciences. He is an author on more than 100
-peer reviewed articles, H-index $35$ (Web of Science) and has edited two
+in data analysis for the geosciences. He is an author on more than 100 
+peer reviewed articles, H-index >49 (Web of Science) and has edited two
 books. Some representative publications
 
-* Dalmasse, K., Nychka, D., Gibson, S., Fan, Y., and Flyer, N. (2016).
- Roam: a radial basis function optimization approximation method for
-  diagnosing the three-dimensional coronal magnetic field.
- *Frontiers in Astronomy and Space Sciences*, 3.
+* Gerber, F. and Nychka, D. (2021) Fast covariance parameter estimation of
+spatial Gaussian process models using neural networks, *Stat*,
+**10**,
+e382.  [PDF Wiley](https://onlinelibrary.wiley.com/doi/pdf/10.1002/sta4.382)
 * Nychka, D., Bandyopadhyay, S., Hammerling, D., Lindgren, F., and Sain, S.
   (2015).
- A multi-resolution {G}aussian process model for the analysis of large
+ A multi-resolution Gaussian process model for the analysis of large
   spatial datasets.
  *Journal of Computational and Graphical Statistics*,
   24(2):579--599.
@@ -90,22 +90,19 @@ books. Some representative publications
  
 <h3>Synergistic Activities</h3>
 * R contributed packages: See `cran.r-project.org`
-	* fields: Tools for spatial data, Nychka, D., R Furrer, S. Sain, and John Page
+	* **fields: Tools for spatial data**, Nychka, D., R Furrer, S. Sain, and John Page
 (2017)\
-( $>$ 230K downloads since 7/2016)
+( > 250K downloads since 7/2016)
 
-	* LatticeKrig: Multi-resolution Kriging, Nychka, D., Hammerling, D. and Sain, S.
+	* **LatticeKrig: Multi-resolution Kriging**, Nychka, D., Hammerling, D. and Sain, S.
 (2017)
-($>$ 3.5K downloads since 7/2016)
+(> 3.5K downloads since 7/2016)
 
 * Selected Community Service	
 	* Surface Temperature Reconstructions for the Last 2,000 Years US, Nat.
 Academy of Sciences (2006)
-
 	* Verification & Validation and Uncertainty Quantification, Nat. Res.
 Council (2010–2012).
-
-	* Board of Governors, Institute for Mathematical Applications, University
+	* Board of Governors, Institute for Mathematical Applications (IMA), University
 of Minnesota (2011– 2015)
-
-	* Scientific Advisory Board, Pacific Institute of Mathematics (2015 – )
+	* Scientific Advisory Board, Pacific Institute of Mathematics (PIMS) (2015 – 2021)

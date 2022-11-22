@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-IMSI-fastPredict
 venue: "IMSI Guassian Process Workshop" 
-date: 2022-09
+date: 2022-09-20
 location: ",Chicago, Il"
 
 ---

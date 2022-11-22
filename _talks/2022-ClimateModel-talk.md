@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-IMSI-NRELSeaIce
 venue: "IMSI" 
-date: 2022-09
+date: 2022-08-31
 location: ",Chicago, IL"
 
 ---

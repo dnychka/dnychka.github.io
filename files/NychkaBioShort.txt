@@ -1,0 +1,7 @@
+Douglas NychkaApplied Mathematics and Statistics,Colorado School of Mines, Golden, CO
+
+
+Douglas Nychka is a statistician who works in applications for the environment. Douglas Nychka is a statistician and data scientist whose areas of research include the theory, computation and application of curve and surface fitting with a focus on geophysical and environmental applications. Currently he is a Professor in the Department of Applied Mathematics and Statistics at the Colorado School of Mines and Senior Scientist  Emeritus  at the National Center for Atmospheric Research (NCAR), Boulder, Colorado. Before moving to Mines he directed the Institute for Mathematics Applied to Geosciences at NCAR.  His  current focus in research is the computation of spatial statistics methods for large data sets and the migration of these algorithms into easy to use R packages.
+ 
+He has coauthored more than 100 research articles and with an h-index of 50.  He is a Fellow of the American Statistical Association,  Fellow of the Institute for Mathematical Statistics and a recipient of the Jerry Sacks Award for interdisciplinary research.
+ 

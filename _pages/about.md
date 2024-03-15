@@ -12,7 +12,9 @@ redirect_from:
 
 <p><strong></strong></p>
 <a href="https://dnychka.github.io/cv/"> CV </a> |
-<a href="https://dnychka.github.io/files/NychkaBio.txt"> Bio </a> | 
+<a href="https://dnychka.github.io/files/NychkaBio.txt">Long Bio </a>
+|
+<a href="https://dnychka.github.io/files/NychkaBioShort.txt">Short Bio </a>
  <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp; | 
 <a href="https://github.com/NCAR/LatticeKrig">  LatticeKrig R Package </a>|
 <a href="https://drive.google.com/drive/folders/19CqTlQRQ_IIKDcEGAm15JJctkwpaIQ2_?usp=sharing"> RShortCourse </a>|
@@ -21,17 +23,20 @@ redirect_from:
 
 <h3>About me</h3>
 
-Beginning in August 2018 I joined the
+I am a statistician and data scientist with an interest in the analysis  of environmental data. 
+
+Since  August 2018 I have worked in the 
 <a href="http://inside.mines.edu/AMS-home"> Department of Applied
 Mathematics and Statistics </a> at <a href="http://inside.mines.edu/AMS-home">  Colorado School of Mines
 </a>
-as a tenured
-Full Professor.  As new staff I got a cool yellow hard hat and hiked
+as a  
+Professor. Starting at Mines I got a cool yellow hard hat and hiked
 up 
-to the M along with the incoming freshman.  With this move I will retain an
+to the M along with the incoming 2018 freshman (but did not carry a rock).
+From 2019 - 2023 I have also directed the Data Science Masters
+program.  With this move I retained an
 appointment at the National Center for Atmospheric Research (NCAR) as
-an emeritus scientist and I plan to be at the Mesa Lab on a regular
-basis.
+an emeritus senior scientist.
 
 At NCAR I served as  Director of the Institute for Mathematics Applied
 to Geosciences (November, 2004 - August 2017) (IMAGe)  My main task
@@ -40,7 +45,6 @@ mathematical methods and models. Also, I used the large scientific
 projects at NCAR to engage the mathematical science communities in new
 applications and to motivate new mathematics and statistics. Before
 directing IMAGe I was the GSP project leader ( August,1997 - June, 2006).
-
 
 Some current personal research interests are nonparametric regression
 (mostly splines), statistical computing, spatial statistics and
@@ -69,21 +73,16 @@ both fields and spam to handle large spatial data sets.  I gave a
 series of talks on my past research, climate science and emerging
 statistical problems as 
  <a href="https://www.statmos.washington.edu/?p=42"> STATMOS Ten Lectures on statistics and
-climate </a>. I also put together a more recent series of 9 (IX)
+climate </a>. I also put together a series of 9 (IX)
 lectures on curve and function estimation including spatial data analysis
-for the University of Fudan in Shanghai (May 2017) see
+for the University of Fudan in Shanghai (May 2017) see 
 <a
 href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj">FudanIX</a>.
 
 In coming to Mines I am interested in reconnecting with undergraduate
 teaching with a focus on modernizing the curriculum in stats and
-making it seamless with the emerging area of data science. See <a
-href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing">Data
-Science 101</a> for an experimental first course that I put together and
-taught at CU Boulder. 
-
-
+making it seamless with the emerging area of data science.
 
 
 My wife Helen Nychka is a speech language pathologist serving autistic
-children and is a founder at Thrive Autism Collaborative. We have three kids: Allie (30), Everett (27) and Grace (24). Some interests outside work are skiing the trees and bumps at Mary Jane, gym climbing, trail running -- and remodeling houses (the one who dies with the most tools wins)! 
+children and is a founder at Thrive Autism Collaborative. We have three kids: Allie , Everett  and Grace. Some interests outside work are skiing the trees and bumps at Mary Jane, gym climbing, trail running -- and remodeling houses (the one who dies with the most tools wins)! 

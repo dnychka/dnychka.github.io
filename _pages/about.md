@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**NOTE: Some of this homepage material is still under construction**
+
 <h3>Some Quick Links:</h3>
 
 <p><strong></strong></p>
@@ -15,10 +15,8 @@ redirect_from:
 <a href="https://dnychka.github.io/files/NychkaBio.txt">Long Bio </a>
 |
 <a href="https://dnychka.github.io/files/NychkaBioShort.txt">Short Bio </a>
- <a href="https://github.com/NCAR/Fields">Fields R Package </a>&nbsp; | 
-<a href="https://github.com/NCAR/LatticeKrig">  LatticeKrig R Package </a>|
-<a href="https://drive.google.com/drive/folders/19CqTlQRQ_IIKDcEGAm15JJctkwpaIQ2_?usp=sharing"> RShortCourse </a>|
-&nbsp;<a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRSk1CWHp1RlB5VkE?usp=sharing"> Data Science 101 </a>&nbsp;| <a href="https://drive.google.com/drive/folders/0Bzm0rn5FoGxRaWU5aXZkczdGVms?usp=sharing">spatialStatsCourse</a>&nbsp;|<a href="https://drive.google.com/open?id=1JJtOVblrvGCDTGLMn4z3g9aBG50gT4Hj"> FudanIX </a>&nbsp;|<a href="https://drive.google.com/open?id=18x1zMxyX2BpGmiHIj9oI0k8awoeuF8TA"> UGExtremes </a>
+ <a href="https://github.com/dnychka/fieldsRPackage">Fields R Package </a>&nbsp; | 
+<a href="https://dnychka.github.io/portfolio/LatticeKrig">  LatticeKrig R Package </a>|
 
 
 <h3>About me</h3>

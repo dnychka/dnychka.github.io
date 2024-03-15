@@ -11,12 +11,11 @@ redirect_from:
 <h3>Some Quick Links:</h3>
 
 <p><strong></strong></p>
-<a href="https://dnychka.github.io/cv/"> CV </a> |
-<a href="https://dnychka.github.io/files/NychkaBio.txt">Long Bio </a>
-|
-<a href="https://dnychka.github.io/files/NychkaBioShort.txt">Short Bio </a>
+<a href="https://dnychka.github.io/cv/"> CV </a>&nbsp; |
+<a href="https://dnychka.github.io/files/NychkaBio.txt">Long Bio </a>&nbsp;|
+<a href="https://dnychka.github.io/files/NychkaBioShort.txt">Short Bio </a>&nbsp;|
  <a href="https://github.com/dnychka/fieldsRPackage">Fields R Package </a>&nbsp; | 
-<a href="https://dnychka.github.io/portfolio/LatticeKrig">  LatticeKrig R Package </a>|
+<a href="https://dnychka.github.io/portfolio/LatticeKrig">  LatticeKrig R Package </a>
 
 
 <h3>About me</h3>

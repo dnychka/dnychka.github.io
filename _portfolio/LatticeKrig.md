@@ -13,7 +13,7 @@ To get package binaries you can download from
 For a quick start use
 ``` help(LatticeKrig) ``` to get started and for an overview.
 Also see 
-[LatticeKrig home respository](https://github.com/NCAR/LatticeKrig) for the commented source code and other supporting components. 
+[LatticeKrig home respository](https://github.com/dnychka/LatticeKrigRPackage) for the commented source code and other supporting components. 
 # Description
   Methods for the interpolation of large spatial
   datasets. This package follows a "fixed rank Kriging" approach using

@@ -15,7 +15,8 @@ redirect_from:
 <a href="https://dnychka.github.io/files/NychkaBio.txt">Long Bio </a>&nbsp;|
 <a href="https://dnychka.github.io/files/NychkaBioShort.txt">Short Bio </a>&nbsp;|
  <a href="https://github.com/dnychka/fieldsRPackage">Fields R Package </a>&nbsp; | 
-<a href="https://dnychka.github.io/portfolio/LatticeKrig">  LatticeKrig R Package </a>
+<a href="https://dnychka.github.io/portfolio/LatticeKrig">  LatticeKrig R Package </a> &nbsp; |
+<a href="https://www.dropbox.com/scl/fo/286q0tqqrr69o7q0nm1hk/APutn9YL9Qx2ZnR49O2D05c?rlkey=ko6apdhoy4gj5isprisw7k2o3&dl=0"> Dropbox Link to Como Summer School </a>
 
 
 <h3>About me</h3>

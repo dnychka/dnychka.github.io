@@ -14,7 +14,7 @@ To get fields binaries you can download from
 For a quick start use
 ``` help(fields) ``` to get started and for an overview.
 Also see 
-[fields home respository](https://github.com/NCAR/Fields) for the source and other supporting components. 
+[fields home respository](https://github.com/dnychka/fieldsRPackages) for the source and other supporting components. 
 # Description
 An extensive R package for curve, surface and function fitting with an emphasis
  on splines, spatial data and spatial statistics. The major methods
@@ -36,7 +36,7 @@ For Kriging
   See the
  fields home repository 
  for an extensive 
- [vignette](https://github.com/NCAR/fields/blob/master/fieldsVignette.pdf)
+ [vignette](https://github.com/dnychka/fieldsRPackage/blob/main/fieldsVignette.pdf)
  on using this package and some background on spatial statistics.   The fields source
  code is deliberately commented and provides useful explanations of
  numerical details as a companion to the manual pages. The commented
